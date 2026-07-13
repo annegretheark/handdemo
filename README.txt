@@ -1,5 +1,8 @@
-Demo Håndverker App - selvstendig demo med alle funksjoner.
+RETT I LOMMA - KLIKKBAR DEMO MED 20 BILDER
 
-Åpne index.html direkte i nettleser.
-Pris: 500 kr for opptil 3 brukere, 75 kr pr bruker over det.
-Test: send e-post til greknuts@online.no
+1. Pakk ut hele ZIP-filen.
+2. Behold mappen assets sammen med index.html.
+3. Dobbeltklikk index.html.
+
+Meny, jobbframgang, bildegalleri og fullskjermbilder er klikkbare.
+Kontakt: salg@rettilomma.com
